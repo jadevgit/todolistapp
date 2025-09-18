@@ -11,7 +11,6 @@ This is a simple and elegant To-Do List application designed to help users manag
 ## Features
 
 *   **Add Tasks**: Quickly add new tasks to your list.
-*   **Mark as Complete**: Easily mark tasks as completed.
 *   **Delete Tasks**: Remove tasks that are no longer needed.
 *   **Responsive Design**: Enjoy a seamless experience across various devices.
 
