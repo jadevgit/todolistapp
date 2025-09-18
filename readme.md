@@ -1,6 +1,6 @@
 # To-Do List App
 
-[![jadevgit GitHub Profile](https://img.shields.io/badge/Profile-jadevgit-blue?style=for-the-badge&logo=github)](https://github.com/jadevgit)
+[![jadevgit GitHub Profile](https://img.shields.io/badge/Profile-jadevgit-blue?style=flat&logo=github)](https://github.com/jadevgit)
 
 ## Overview
 
