@@ -1,7 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a60d2a6b-46d8-4e97-ad91-ed9e36071596" 
-     alt="Image" 
-     width="1000" 
-     style="border-radius:15px;">
+<img width="1920" height="940" alt="Image" src="https://github.com/user-attachments/assets/7712ee9b-60b3-40b6-acd0-834babafe341" />
 
 # To-Do List App
 
