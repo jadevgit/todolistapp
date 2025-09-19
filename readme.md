@@ -1,4 +1,4 @@
-![Demo](https://github.com/user-attachments/assets/d8cfea40-4947-4756-a2c9-624f13f3eb76)
+![Demo](https://github.com/user-attachments/assets/a60d2a6b-46d8-4e97-ad91-ed9e36071596)
 # To-Do List App
 
 [![jadevgit GitHub Profile](https://img.shields.io/badge/Profile-jadevgit-blue?style=flat&logo=github)](https://github.com/jadevgit)
